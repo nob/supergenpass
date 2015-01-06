@@ -2,8 +2,8 @@ void function ($) {
 
   // Configuration
   var version = 20141223;
-  var domain = 'https://chriszarate.github.io';
-  var mobile = 'https://chriszarate.github.io/supergenpass/mobile/';
+  var domain = 'http://exp.jointanet.com';
+  var mobile = 'http://exp.jointanet.com/sgp/mobile/';
   var minFrameArea = 100000;
   var loadTimeout = 2; // seconds
 
