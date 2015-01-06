@@ -72,7 +72,7 @@ var selectors =
 
 // Retrieve user's configuration from local storage, if available.
 var config = {
-  passwordLength: storage.local.getItem('Len') || 10,
+  passwordLength: storage.local.getItem('Len') || 8,
   masterSecret:   storage.local.getItem('Salt') || '',
   hashMethod:     storage.local.getItem('Method') || 'md5',
   disableTLD:     storage.local.getItem('DisableTLD') || ''
