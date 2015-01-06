@@ -2,8 +2,8 @@ void function ($) {
 
   // Configuration
   var version = 20141223;
-  var domain = 'http://exp.jointanet.com';
-  var mobile = 'http://exp.jointanet.com/sgp/mobile/';
+  var domain = 'https://exp.jointanet.com';
+  var mobile = 'https://exp.jointanet.com/sgp/mobile/';
   var minFrameArea = 100000;
   var loadTimeout = 2; // seconds
 
